@@ -1,0 +1,45 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Aarav Patel",
+    "specialty": "Ayurvedic Medicine",
+    "experience": 10
+  },
+  {
+    "id": 2,
+    "name": "Dr. Riya Gupta",
+    "specialty": "Ayurvedic Dermatology",
+    "experience": 8
+  },
+  {
+    "id": 8,
+    "name": "Dr. Vivaan Sharma",
+    "specialty": "Ayurvedic Orthopedics",
+    "experience": 12
+  },
+  {
+    "id": 4,
+    "name": "Dr. Ishaan Singh",
+    "specialty": "Ayurvedic Orthopedics",
+    "experience": 12
+  },
+  {
+    "id": 5,
+    "name": "Dr. Siya Joshi",
+    "specialty": "Ayurvedic Orthopedics",
+    "experience": 12
+  },
+  {
+    "id": 6,
+    "name": "Dr. Advait Verma",
+    "specialty": "Ayurvedic Orthopedics",
+    "experience": 12
+  },
+  {
+    "id": 7,
+    "name": "Dr. Aanya Kapoor",
+    "specialty": "Ayurvedic Orthopedics",
+    "experience": 12
+  }
+]
+  

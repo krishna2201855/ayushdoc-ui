@@ -1,0 +1,30 @@
+/* Doctors.css */
+
+.doctor-section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 20px;
+  }
+  
+  .doctor-card {
+    width: calc(0% - 20px); /* Adjusted width for 3 cards per row */
+    max-width: 320px; /* Maximum width to keep the same size as on the home page */
+    margin-bottom: 20px;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  /* Responsive styles */
+  @media (max-width: 768px) {
+    .doctor-card {
+      width: calc(50% - 20px); /* Adjusted width for 2 cards per row */
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .doctor-card {
+      width: 100%; /* Single card per row on smaller screens */
+    }
+  }
+  
